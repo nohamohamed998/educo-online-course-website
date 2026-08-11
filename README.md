@@ -1,4 +1,4 @@
-# Online Course - Course Module
+# EDUCO Online Course - Course Module
 
 ## About the Project
 
